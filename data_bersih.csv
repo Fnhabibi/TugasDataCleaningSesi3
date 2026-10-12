@@ -1,0 +1,10 @@
+Id,GarageYrBlt,LotFrontage,SalePrice,Neighborhood
+1,2005,80,200000,Collgcr
+2,2006,81,150000,Veenker
+3,2007,80,250000,Crawfor
+4,2008,60,180000,Collgcr
+6,2010,150,200000,CollgCr
+8,2006,70,250000,Veenker
+9,2005,80,180000,Collgcr
+10,2006,60,200000,Crawfor
+12,2010,80,200000,Collgcr
